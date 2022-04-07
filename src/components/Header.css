@@ -1,0 +1,14 @@
+.header {
+    background-color: #CCCCCC;
+}
+
+.header-title {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.header-title__icon {
+    color: #8cc596;
+    font-size: 2rem;
+}
