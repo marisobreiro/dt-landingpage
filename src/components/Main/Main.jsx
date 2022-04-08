@@ -1,13 +1,15 @@
 import React from "react";
 
-import About from "./About";
 import Headline from "./Headline";
+import About from "./About";
+import Plans from "./Plans";
 
 function Main () {
     return (
         <>
             <Headline />
             <About />
+            <Plans />
         </>
     )
 }
