@@ -1,6 +1,13 @@
+* {
+    --backgroundcolor: #062C30;
+    --backgroundcolor-secondary: #F5F5F5;
+    --maincolor: #E2D784;
+    --secondarycolor: #05595B;
+}
+
 body {
+    background: var(--backgroundcolor-secondary);
     margin: 0;
-    background-color: #f8f9fa;
     font-family: 'RobotoMono', monospace !important;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;

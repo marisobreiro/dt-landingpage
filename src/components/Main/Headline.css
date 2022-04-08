@@ -1,0 +1,12 @@
+.headline {
+    background-color: var(--backgroundcolor);
+    height: 30vw;
+}
+
+.headline__title {
+    color: var(--maincolor);
+}
+
+.headline__image {
+    width: 50vw;
+}
