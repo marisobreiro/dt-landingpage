@@ -1,0 +1,17 @@
+.main-button {
+    all: unset;
+    color: var(--maincolor) !important;
+    background-color: none !important;
+    border: 1px solid var(--maincolor) !important;
+    border-radius: 8px;
+    font-weight: bold;
+    padding: 0.25rem;
+    text-align: center;
+    width: 10vw;
+}
+
+.main-button:hover, .main-button:active {
+    color: var(--backgroundcolor) !important;
+    background-color: var(--maincolor) !important;
+    font-weight: bold !important;
+}

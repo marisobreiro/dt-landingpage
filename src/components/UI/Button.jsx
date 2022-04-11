@@ -1,9 +1,11 @@
 import React from "react";
 
-function Button ({title}) {
+import './Button.css'
+
+function Buttonc ({title}) {
     return (
-        <button>{title}</button>
+        <button className="main-button mb-3">{title}</button>
     )
 }
 
-export default Button;
+export default Buttonc;
