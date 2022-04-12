@@ -2,6 +2,11 @@
     background-color: var(--backgroundcolor);
 }
 
+.header__container {
+    display: flex;
+    flex-direction: column !important;
+}
+
 .header-title {
     color: var(--backgroundcolor-secondary);
 }
