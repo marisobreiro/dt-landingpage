@@ -1,3 +1,7 @@
 .footer {
     background-color: var(--maincolor);
 }
+
+.footer__logo-icon {
+    font-size: 2rem;
+}
